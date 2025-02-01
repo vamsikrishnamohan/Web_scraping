@@ -1,7 +1,0 @@
----
-google_news_url: https://news.google.com/
-top_stories_text: Top stories
-database:
-  type: mongodb
-  uri: mongodb://localhost:27017/
-  db_name: news_database

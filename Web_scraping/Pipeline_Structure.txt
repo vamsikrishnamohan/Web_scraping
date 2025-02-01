@@ -1,9 +1,0 @@
-news_scraper_pipeline/
-│── config.json             # Configuration file for URLs & parameters
-│── main.py                 # Orchestration script (Module 6)
-│── modules/
-│   │── scraper.py          # Web scraping functions (Modules 1, 2, 3)
-│   │── storage.py          # Database storage functions (Module 4)
-│   │── deduplication.py    # De-duplication logic (Module 5)
-│   │── logger.py           # Logging errors and execution timestamps
-│── requirements.txt        # Required Python packages
